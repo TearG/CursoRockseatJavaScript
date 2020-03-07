@@ -1,2 +1,0 @@
-# CursoRockseatJavaScript
-Created with CodeSandbox
